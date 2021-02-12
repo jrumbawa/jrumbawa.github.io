@@ -1,0 +1,22 @@
+:root {
+  --primary-font: "Roboto", sans-serif;
+  --secondary-font: "Abril Fatface", serif;
+}
+
+body {
+  margin: 0;
+}
+
+body {
+  font-family: var(--primary-font);
+  font-weight: 300;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  font-family: var(--secondary-font);
+}
